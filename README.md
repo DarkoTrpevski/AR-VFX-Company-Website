@@ -1,9 +1,3 @@
-Preliminary Design Hero Section + Navigation
-#Desktop
-![Desktop Hero Section](https://media.giphy.com/media/GcTVbqIkzNCYWHeXYJ/giphy.gif)
-![Menu Animation](https://media.giphy.com/media/mIklLijtrvCer0wSuA/giphy.gif)
-
-
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
